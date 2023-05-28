@@ -1,4 +1,1 @@
-Expense Tracking 
--> add new expenses
--> filter out expenses
-
+Expense Tracking Website (React JS) where you can add new expenses , filter out expenses . 
